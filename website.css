@@ -164,6 +164,7 @@ footer{
     }
     .btn{
         width: 50%;
+        color: rgb(0, 0, 0);
     }
    .about{
         display: flex;
