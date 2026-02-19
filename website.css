@@ -86,6 +86,7 @@ p{
 .alex-image{
     width: 90%;
     height: 600px;
+    
    
 }
 
@@ -100,14 +101,9 @@ p{
     align-items: center;
     padding: 15px ;
 }
-.contact h1{
-    font-size:50px ;
-}
-.contact-btn{
-    width: fit-content;
-    padding: 15px ;
-    height:50px;
 
+.contact-btn{
+    height:50px;
 }
 
 .links{
@@ -157,8 +153,12 @@ footer{
     .passion{
         width: 100%;
         position: relative;
-
     }
+
+    button{
+        color: black;
+    }
+
     h1{
          font-size: 3.5rem;
     }
