@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Fraterne Bahirwe 👋
 
-<!--
-**fraternebahirwe/fraternebahirwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Front-End Software Developer and Engineering Student passionate about building responsive web applications, working with modern UI components, and contributing to open-source software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** JavaScript, SQL, HTML5, CSS3
+- **Frameworks** React, React Router
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel
+
+
+---
+
+### 🌐 Highlights & Connect
+
+- 💼 **Portfolio:** [fraternebahirwe.github.io](https://fraternebahirwe.github.io)
+- 🤝 **Open Source:** Active contributor to community web projects
+- 📧 **Contact:** [fraterneiragibahirwe@gmail.com](mailto:fraterneiragibahirwe@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/fraternebahirwe](https://linkedin.com/in/fraternebahirwe)
+
+---
