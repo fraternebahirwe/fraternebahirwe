@@ -1,15 +1,14 @@
 # Hi there, I'm Fraterne Bahirwe 
 
-Full-stack web developer and engineering student. I build responsive web apps end to end, from React interfaces to Node.js APIs and PostgreSQL databases, and I contribute to open-source software.
+Full-stack web developer and engineering student.  Passionate about building clean, accessible web applications and contributing to open-source software.
 
 ---
 
 ###  Tech Stack & Skills
 
-- **Languages:** TypeScript, JavaScript, Python, SQL, HTML5, CSS3
-- **Frontend:** React, React Router, Next.js, Vite, Tailwind CSS
-- **Backend:** Node.js, Express, Prisma, PostgreSQL, Supabase
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Railway, Docker
+- **Languages:**  JavaScript, SQL, HTML5, CSS3
+- **Frontend:** React, React Router, Vite
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel
 
 ---
 
